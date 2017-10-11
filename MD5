@@ -1,0 +1,15 @@
+84b56347ce48e9a215b05afeca52d42b *DESCRIPTION
+d32239bcb673463ab874e80d47fae504 *LICENSE
+497759d755c99fe8e568e65c2a18c268 *NAMESPACE
+64ece2de80b18208f8d13d6228d65578 *R/triversity.R
+3756ed1896d158eb63a4e9cf4d62fdb6 *README.md
+6e28097e35707e52d43ac890bb2bb20d *data/tripartite_example.RData
+b8efc98b03ae3a7f98eff56dcfea6a61 *data/tripartite_example.csv
+6766fa3b4df9da576cbe16c79353517a *man/get_conditional_diversity_from_transition.Rd
+9ae63b4fe73ec4e0c86aeb0b4bda7425 *man/get_distribution_from_path.Rd
+443cb741830cfb115f28842007c7ce5a *man/get_diversity_from_distribution.Rd
+fe5f7689f6bdad80f9fa159fdeeb1c8b *man/get_diversity_from_path.Rd
+4b6cf2853783ad2bd0fc5af9a31760b0 *man/get_transition_from_path.Rd
+c1c81260bf82f476437aa0f5dd0e3f12 *man/get_tripartite.Rd
+fecb4ea2eeb5ff4865085509751a84e0 *man/tripartite_example.Rd
+abca579d089d59456fa34bdee9a0c119 *man/triversity.Rd
